@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/wbkal.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/llm-150.ts",
   "watch": {
     "include": [
       "**"
